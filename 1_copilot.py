@@ -8,4 +8,3 @@ def greet_students(student_list):
 greet_students(students)
 
 
-
